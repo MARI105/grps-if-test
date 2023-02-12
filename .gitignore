@@ -1,0 +1,10 @@
+
+# IntelliJ IDEA
+/.idea/**
+
+.DS_Store
+**/__pycache__/**
+
+/*.sh
+!har_to_locust.sh
+!locust_test_runner.sh
